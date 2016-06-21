@@ -9,7 +9,7 @@ Further this tutorial uses the GCC MinGw compiler and Windows 10.
 If you are using another compiler or operating system you may have to
 modify it slightly.
 
-## Step 1: Download & Install SFML
+## Step 1: Download & install SFML
 ### Download
 Go to http://www.sfml-dev.org/ and Download the `GCC MinGw` Version.
 
@@ -24,7 +24,7 @@ version, linked below the downloads.
 Extract the downloaded zip-file anywhere you want. In this Tutorial we will
 use the path `C:\sfml`
 
-## Step 2: Creating an Eclipse Project
+## Step 2: Creating an Eclipse project
 Open _Eclipse Cpp_ and create a new project by clicking:
 `File > New > C++ Project`.
 Name the project whatever you want. Below select `Empty Project` as project
@@ -33,7 +33,7 @@ Project.
 
 ![Creating a new project.](new_project.png)
 
-## Step 3: Setup the Project-Properties
+## Step 3: Setup the project-properties
 After you created your project right-click on it in the Project Explorer and
 select `Properties`.
 ### Setup the include path.
