@@ -15,13 +15,13 @@ Go to http://www.sfml-dev.org/ and Download the `GCC MinGw` Version.
 
 ![Download Button](download_button.png)
 
-The Website says, the Compiler versions have to match 100%. I was also
+The website says, the Compiler versions have to match 100%. I was also
 able to use it with a slightly newer compiler version (4.9.3), however if you
 run into troubles later you should consider downloading the matching compiler
 version, linked below the downloads.
 
 ### Installation
-Extract the downloaded zip-file anywhere you want. In this Tutorial we will
+Extract the downloaded zip-file anywhere you want. In this tutorial we will
 use the path `C:\sfml`
 
 ## Step 2: Creating an Eclipse project
@@ -29,12 +29,12 @@ Open _Eclipse Cpp_ and create a new project by clicking:
 `File > New > C++ Project`.
 Name the project whatever you want. Below select `Empty Project` as project
 type and the `MinGW GCC` toolchain. Click on the `Finish` button to create your
-Project.
+project.
 
 ![Creating a new project.](new_project.png)
 
 ## Step 3: Setup the project-properties
-After you created your project right-click on it in the Project Explorer and
+After you created your project right-click on it in the project explorer and
 select `Properties`.
 ### Setup the include path.
 Go to `C/C++ Build > Settings > Tool Settings > GCC C++ Compiler > Includes`
